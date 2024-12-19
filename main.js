@@ -17,7 +17,7 @@ function start(username, password) {
         return;
     }
     const user = {
-        country_code: 86,
+        country_code: 1,
         lang: "zh_CN",
         mobile_num: username,
         os_type: 4,
